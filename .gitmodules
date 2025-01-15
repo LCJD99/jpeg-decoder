@@ -1,0 +1,3 @@
+[submodule "JDRust"]
+	path = JDRust
+	url = git@github.com:LCJD99/JDRust.git
